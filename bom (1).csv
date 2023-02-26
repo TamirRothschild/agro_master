@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"SEN1",1," Soil Moisture Sensor"
+"R2",1,"330 Ω Resistor"
+"U2",1," Temperature Sensor [TMP36]"
+"R1",1," Photoresistor"
