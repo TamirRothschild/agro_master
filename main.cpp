@@ -14,7 +14,7 @@ void setup()
 
 void loop()
 {
-  delay(500); // Wait for 500 millisecond(s)
+  delay(500);
   Serial.println("--------------------------");
   Serial.println("your plant information:");
   Serial.println("--------------------------");
