@@ -1,8 +1,6 @@
 # agro_master
 
-To Do:
-- [ ] add a cli
-- [ ] add a gui
-- [ ] make the code run on itself ( without a computer)
-- [ ] make a better To Do list 
-- [ ] change the name to something better!
+## this project is open-surce and is free to use 
+This project is part of a school project, we wants to make children more responsible.
+![alt text](https://github.com/TamirRothschild/agro_master/blob/main/atizitch_1.png?raw=true "plant_logo")
+
